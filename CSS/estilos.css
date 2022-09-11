@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: beige;
+}
+
+header {
+    background-color: #5A8F7B;
+    /*background-image: url(./imagenes/gorro_fondo.png);*/
+    width: 100%;
+    margin-bottom: 0;
+  
+
+}
+
+
+
+a {
+    font-size: larger;
+}
+
+p {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+
+main {
+    background-color: #81CACF;
+    /*background-image: url("imagenes/gorro_fondo.png");*/
+    width: 100%;
+    position: relative;
+    
+}
+
+.guisobuda {
+    border-radius: 10%;
+}
+
+.descripciones {
+    text-align: left;
+}
+
+.nav {
+    background-color: gray;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px;
+
+
+}
+.navmain{
+    background-color: gray;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+   
+    position: relative;
+    top: 5
+    ;
+}
+nav {
+    background-color: #355764;
+
+    padding: 15px;
+}
+
+footer {
+    background-color: #355764;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+    
+    left: 0;
+    bottom: 0;
+    margin-top: 0;
+   
+  
+}
+
+
+
+footer nav {
+    text-align: center;
+    background-color: #FFEA11;
+
+}
+
+.redsocial {
+    padding: 5px;
+}
+
+.acercade {
+    text-align: right;
+    position: relative;
+   left: 1075px;
+}
+.nav:hover{
+   background-color: black;
+}
+.subtitulo{
+    padding: 10px;
+}
+.formulario {
+    margin: 10%, 25%;
+
+
+}
